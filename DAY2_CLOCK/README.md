@@ -123,4 +123,4 @@ setInterval(setDate, 1000);
 + `Date()` object [ getHours(),getSeconds(),getMinutes()]
 + `transform:rotate(90deg)` -> for positioning hands to vertical
 + Degree calculation for secondHand,minsHand and hourHand
-+ removing reverse transition effect at edge degrees
++ Removing reverse transition effect at edge degrees
