@@ -124,4 +124,3 @@ setInterval(setDate, 1000);
 + `transform:rotate(90deg)` -> for positioning hands to vertical
 + Degree calculation for secondHand,minsHand and hourHand
 + removing reverse transition effect at edge degrees
-```javascript
