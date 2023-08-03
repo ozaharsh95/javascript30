@@ -1,8 +1,13 @@
 # 3️⃣  CSS Variable 👾 
 
-<!-- ![meme](./meme.jpg) -->
+I was also surprised to learn about CSS variables for the first time. This was my reaction...🤣
 
-I was also surprised to learn about CSS variables for the first time.
+<p align="center">
+ <img src="meme.jpg"> 
+      
+</p>
+
+
 
 # 📒 My Learning:
 
