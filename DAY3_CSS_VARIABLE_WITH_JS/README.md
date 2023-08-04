@@ -130,3 +130,30 @@ console.log(root.children);
 
 In detailes of these methods covered in part2/DOM of [Harshit Vashisth's playlist](https://github.com/ozaharsh95/JS_BEGINNING_TO_MASTERY).
 
+
+### ✏️ Use of `dataset` to get certain data attribute like DrumKit
+
+#### html
+
+```html
+<!-- there's a custom attribute "data-sizing" -->
+<input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+```
+
+
+#### Javascript
+
+```javascript
+// to get the "px" value,
+
+function handleUpdate(){
+    // we can use dataset, which gives us an object including all custom data attributes, we'll get 'px' value for input type="range".
+
+    // here || condition handles to add ' ' when input is type="color"  
+    
+    const suffix=this.dataset.sizing || '';
+    let root=document.documentElement;
+    root.style.setProperty(`--${this.name}`,this.value+suffix);
+}
+
+```
