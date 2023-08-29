@@ -189,6 +189,9 @@ console.log(wes.social);
 
 According to [MDN](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy), a deep copy of an object is **a copy whose properties do not share the same references (point to the same underlying values) as those of the source object from which the copy was made**. As a result, when you change either the source or the copy, you can be assured you're not causing the other object to change too.
 
+<p align="center">
+    <img src="ss.jpg">
+</p>
 
 
 ### 🙏 Acknowledgement :
