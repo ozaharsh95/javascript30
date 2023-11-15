@@ -45,7 +45,7 @@ Completed JS30 Challange by WESBOSE
 # Ack 🙏:
 
 + Special Thanks to [WESBOSE](https://github.com/wesbos) for creating these amazing course and challenges.
-+ Very Warm Thanks to [Kelly](https://github.com/KellyCHI22) for becoming inspiration for me throughout the joourney.
++ Very Warm Thanks to [Kelly](https://github.com/KellyCHI22) for becoming an inspiration for me throughout the joourney.
 
 # Contact Me ☎:
 
