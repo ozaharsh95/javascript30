@@ -1,8 +1,8 @@
-# 30 Days JS Challange
+# 30 Days JS Challange 🚀🗿
 
 Completed JS30 Challange by WESBOSE 
 
-## 30 Challenges :
+## 30 Challenges 🎯:
 -  🥁 [JS Drum Kit](https://ozaharsh95.github.io/javascript30/01_DRUM_KIT/index.html)
 -  🕒 [JS and CSS Clock](https://ozaharsh95.github.io/javascript30/02_CLOCK/index_updated.html)
 -  🖼 [CSS Variables](https://ozaharsh95.github.io/javascript30/03_CSS_VARIABLE_WITH_JS/index.html)
@@ -34,7 +34,7 @@ Completed JS30 Challange by WESBOSE
 -  ⏱ [Countdown Timer](https://ozaharsh95.github.io/javascript30/29%20_Countdown_Timer/index.html)
 - 🎮 [Whack A Mole](https://ozaharsh95.github.io/javascript30/30_Whack_A_Mole/index.html)
 
-# To run locally :
+# To run locally 🎒:
 
 + Open Browser and open this link
 `https://github.com/ozaharsh95/javascript30/archive/refs/heads/main.zip`
@@ -42,15 +42,13 @@ Completed JS30 Challange by WESBOSE
 + Navigate to main directory and run 
 `index.html`
 
-# Ack :
+# Ack 🙏:
 
-+ Special Thanks to [WESBOSE] for creating these amazing course and challenges.
-+ Very Warm Thanks to [Kelly] for becoming inspiration for me throughout the joourney.
++ Special Thanks to [WESBOSE](https://github.com/wesbos) for creating these amazing course and challenges.
++ Very Warm Thanks to [Kelly](https://github.com/KellyCHI22) for becoming inspiration for me throughout the joourney.
 
-# Contact Me :
+# Contact Me ☎:
 
 + [Linkedin](https://www.linkedin.com/in/harshoza955/)
-
 + [Github](https://github.com/ozaharsh95)
-
 + harshoza77@gmail.com
